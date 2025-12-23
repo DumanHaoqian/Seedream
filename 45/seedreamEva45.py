@@ -12,7 +12,7 @@ from Samples.Generator import SeedreamGenerator
 
 # ==================== 配置 ====================
 CONFIG = {
-    "csv_path": "/Users/haoqian3/Research/AnimationGEN/TestSet/test_data_7B_v16.csv",
+    "csv_path": "/Users/haoqian3/Research/AnimationGEN/TestSet/test_data_7B_v17.csv",
     "model_name": "seedream-4-5-251128",
     "size": "2K",
     "response_format": "url",
